@@ -19,3 +19,53 @@
     display: inline-block;
     border-bottom: solid red;
 }
+
+.logo .fa-brands fa-github{
+    float: right;
+    display: flex;
+}
+.logo{
+    width: 400px;
+
+}
+
+.fa-brands {
+    float: right;
+    display: flex;
+}
+.footerunder {
+    background-color: black;
+    width: 450px;
+}
+.center{
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.center1{
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+
+.circle {
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    border: #F26464 solid 4px;
+    margin: 0px 100px 0px 100px
+}
+.circle1{
+    color: #F26464;
+    margin: 40px 0px 40px 0px;
+    
+}
+
+.source {
+    color: grey;
+    text-align: center;
+    padding-bottom: 30px;
+}
